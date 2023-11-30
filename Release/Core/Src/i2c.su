@@ -1,0 +1,5 @@
+../Core/Src/i2c.c:11:6:i2c_init	0	static
+../Core/Src/i2c.c:128:9:write_transaction	0	static
+../Core/Src/i2c.c:107:9:read_transaction	16	static
+../Core/Src/i2c.c:91:9:i2c_transaction	4	static
+../Core/Src/i2c.c:153:6:address_phase	0	static

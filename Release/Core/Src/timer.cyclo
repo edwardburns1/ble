@@ -1,0 +1,3 @@
+../Core/Src/timer.c:11:6:timer_init	3
+../Core/Src/timer.c:62:6:timer_reset	1
+../Core/Src/timer.c:68:6:timer_set_ms	1
